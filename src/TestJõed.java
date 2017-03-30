@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Created by merike on 22.03.2017.
  */
-public class TestJõed {
+public class TestJõed22 {
     public static void main(String[] args) throws IOException {
         Scanner s = new Scanner(new File("C:/Users/merike/IdeaProjects/Ryhmatöö/kavastu2.txt"));
         int rank = 0;
